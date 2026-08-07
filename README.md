@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/prakshal0325/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/prakshal0325/leetcode-solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->

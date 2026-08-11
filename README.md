@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/prakshal0325/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prakshal0325/leetcode-solutions/tree/master/0342-power-of-four) |
+| [3099-harshad-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prakshal0325/leetcode-solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/prakshal0325/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prakshal0325/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prakshal0325/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/prakshal0325/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prakshal0325/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prakshal0325/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

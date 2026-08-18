@@ -1,22 +1,30 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& nums) {
-        int n = nums.size();
+    int majorityElement(vector<int>& v) {
+        int n = v.size();
+        int count = 0;
+        int el;
 
-        map<int, int> mpp;
-
-        // Count frequency of each element
-        for (int i = 0; i < n; i++) {
-            mpp[nums[i]]++;
-        }
-
-        // Find element appearing more than n/2 times
-        for (auto it : mpp) {
-            if (it.second > n / 2) {
-                return it.first;
+        for (int i = 0; i < n; i++){
+            if (count == 0){
+                count = 1;
+                el = v[i];
+            }else if (v[i] == el){
+                count ++;
+            }else{
+                count --;
             }
         }
-
-        return -1;
+        int count1 = 0;
+        for (int i = 0; i<n; i++){
+            if (v[i]==el){
+                count1 ++;
+            }
+        }
+        if (count1 > n/2){
+            return el;
+        }
+         return -1;
     }
+
 };

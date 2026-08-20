@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/prakshal0325/leetcode-solutions/tree/master/0520-detect-capital) |
 ## Heap (Priority Queue)
 |  |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prakshal0325/leetcode-solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prakshal0325/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakshal0325/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/prakshal0325/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/prakshal0325/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/prakshal0325/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/prakshal0325/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/prakshal0325/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakshal0325/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prakshal0325/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/prakshal0325/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prakshal0325/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -155,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakshal0325/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prakshal0325/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

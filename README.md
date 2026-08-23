@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/prakshal0325/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prakshal0325/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 | [3099-harshad-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prakshal0325/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/prakshal0325/leetcode-solutions/tree/master/0520-detect-capital) |
+| [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prakshal0325/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

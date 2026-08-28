@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/prakshal0325/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prakshal0325/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 | [3099-harshad-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prakshal0325/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/prakshal0325/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakshal0325/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prakshal0325/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prakshal0325/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prakshal0325/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prakshal0325/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prakshal0325/leetcode-solutions/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/prakshal0325/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prakshal0325/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prakshal0325/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/prakshal0325/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/prakshal0325/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
+| [2351-first-letter-to-appear-twice](https://github.com/prakshal0325/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prakshal0325/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prakshal0325/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/prakshal0325/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

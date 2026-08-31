@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prakshal0325/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prakshal0325/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prakshal0325/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/prakshal0325/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prakshal0325/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshal0325/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prakshal0325/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/prakshal0325/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prakshal0325/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/prakshal0325/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prakshal0325/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/prakshal0325/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/prakshal0325/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/prakshal0325/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/prakshal0325/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |

@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1927-sum-game) |
 | [3099-harshad-number](https://github.com/prakshal0325/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prakshal0325/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prakshal0325/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prakshal0325/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/prakshal0325/leetcode-solutions/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prakshal0325/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

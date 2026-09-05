@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prakshal0325/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prakshal0325/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prakshal0325/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/prakshal0325/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prakshal0325/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/prakshal0325/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/prakshal0325/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prakshal0325/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/prakshal0325/leetcode-solutions/tree/master/0169-majority-element) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/prakshal0325/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/prakshal0325/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prakshal0325/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/prakshal0325/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/prakshal0325/leetcode-solutions/tree/master/0520-detect-capital) |
